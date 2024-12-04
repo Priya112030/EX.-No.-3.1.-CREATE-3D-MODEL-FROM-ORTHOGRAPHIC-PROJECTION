@@ -3,6 +3,8 @@
 
 ## AIM:
 To create a 3D model from given orthographic projection.
+# NAME.:PRIYA.B
+# REF.NO:24900803
 
 ## REQUIREMENTS:
 1. Autodesk fusion 360
@@ -41,6 +43,7 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
 ## OUTPUT:
+![Screenshot 2024-12-04 141017](https://github.com/user-attachments/assets/aaa7383b-4039-47a0-8479-7b75e077d0c8)
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
